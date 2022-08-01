@@ -1,4 +1,5 @@
-Resources/
+Resources/ratings.csv
+Resources/credits.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
