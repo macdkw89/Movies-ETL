@@ -1,4 +1,5 @@
 # Movies-ETL
+<<<<<<< HEAD
 Deliverable 1: Write an ETL Function to Read Three Data Files
 ![1](Resources/1.png)
 Deliverable 2: Extract and Transform the Wikipedia Data
@@ -189,3 +190,14 @@ Deliverable 3: Extract and Transform the Kaggle data
 Deliverable 4: Create the Movie Database
 
 ![1](Resources/4.png)
+=======
+
+Deliverable 1: Write an ETL Function to Read Three Data Files
+
+Deliverable 2: Extract and Transform the Wikipedia Data
+
+Deliverable 3: Extract and Transform the Kaggle data
+
+Deliverable 4: Create the Movie Database
+
+>>>>>>> 0ae1af3a78e1ac6e00c86ea422a96faafb701588
