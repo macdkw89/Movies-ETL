@@ -1,8 +1,7 @@
 # Movies-ETL
-<<<<<<< HEAD
-Deliverable 1: Write an ETL Function to Read Three Data Files
+# Deliverable 1: Write an ETL Function to Read Three Data Files
 ![1](Resources/1.png)
-Deliverable 2: Extract and Transform the Wikipedia Data
+# Deliverable 2: Extract and Transform the Wikipedia Data
 
 ```Python
 # 2 Add the function that takes in three arguments;
@@ -124,7 +123,7 @@ def extract_transform_load():
     # Return three variables. The first is the wiki_movies_df DataFrame
     return wiki_movies_df, kaggle_metadata, ratings
 ```
-Deliverable 3: Extract and Transform the Kaggle data
+# Deliverable 3: Extract and Transform the Kaggle data
 ```Python
     # 2. Clean the Kaggle metadata.
     kaggle_metadata = kaggle_metadata[kaggle_metadata['adult'] == 'False'].drop('adult',axis='columns')
@@ -187,17 +186,6 @@ Deliverable 3: Extract and Transform the Kaggle data
     return wiki_movies_df, movies_with_ratings_df, movies_df
 ```
 
-Deliverable 4: Create the Movie Database
+#4 Deliverable 4: Create the Movie Database
 
 ![1](Resources/4.png)
-=======
-
-Deliverable 1: Write an ETL Function to Read Three Data Files
-
-Deliverable 2: Extract and Transform the Wikipedia Data
-
-Deliverable 3: Extract and Transform the Kaggle data
-
-Deliverable 4: Create the Movie Database
-
->>>>>>> 0ae1af3a78e1ac6e00c86ea422a96faafb701588
